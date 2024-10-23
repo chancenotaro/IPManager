@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "Kiewit",
+    "UseDHCP": false,
+    "IPAddresses": [
+      {
+        "Address": "192.168.105.222",
+        "IsSelected": false
+      }
+    ]
+  },
+  {
+    "Name": "Concordia",
+    "UseDHCP": false,
+    "IPAddresses": [
+      {
+        "Address": "192.168.1.222",
+        "IsSelected": true
+      }
+    ]
+  },
+  {
+    "Name": "Haleon",
+    "UseDHCP": false,
+    "IPAddresses": [
+      {
+        "Address": "192.168.100.223",
+        "IsSelected": false
+      }
+    ]
+  }
+]
